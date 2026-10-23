@@ -1,8 +1,18 @@
 # 不许忘！（buyaowang）
 
+<p align="center"><img src="封面素材/糖.png" width="300" alt="不许忘！封面"></p>
+
 轻便快捷的本地备忘录桌面应用。Windows 便携版，绿色免安装：数据、配置、缓存全部放在程序所在目录，绝不落 C 盘。
 
 采用 [Tauri 2](https://tauri.app/) 构建：前端是零依赖的原生 HTML/CSS/JS，后端是一个 800 行左右的 Rust 单文件。
+
+## 下载安装
+
+到 [**Releases**](https://github.com/AnSleeper/memo/releases/latest) 页面下载 `不许忘.exe`（约 8.5MB，绿色免安装）：
+
+1. 把 exe 放进一个**单独的文件夹**再运行——数据、配置、缓存全部生成在 exe 旁边，换电脑拷走整个文件夹就是全部
+2. 需要 Windows 10 / 11；依赖 WebView2 运行时（Win11 自带，Win10 一般已随系统更新装好）
+3. 不写注册表、不写系统用户目录，删除文件夹即彻底卸载
 
 ## 功能特性
 
