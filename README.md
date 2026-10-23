@@ -8,7 +8,7 @@
 
 ## 下载安装
 
-到 [**Releases**](https://github.com/AnSleeper/memo/releases/latest) 页面下载 `不许忘.exe`（约 8.5MB，绿色免安装）：
+到 [**Releases**](https://github.com/AnSleeper/memo/releases/latest) 页面下载 `buyaowang.exe`（约 8.5MB，绿色免安装）：
 
 1. 把 exe 放进一个**单独的文件夹**再运行——数据、配置、缓存全部生成在 exe 旁边，换电脑拷走整个文件夹就是全部
 2. 需要 Windows 10 / 11；依赖 WebView2 运行时（Win11 自带，Win10 一般已随系统更新装好）
