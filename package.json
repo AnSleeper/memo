@@ -1,0 +1,13 @@
+{
+  "name": "buyaowang",
+  "private": true,
+  "version": "0.1.0",
+  "description": "不许忘！—— 轻便快捷的本地备忘录",
+  "scripts": {
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2"
+  }
+}

@@ -1,0 +1,18 @@
+/target
+/src-tauri/target
+/node_modules
+/dist
+*.log
+src-tauri/gen
+
+# 运行时数据与构建缓存：全部落在程序所在目录内，不落 C 盘
+/数据
+/配置
+/缓存
+/.toolchain
+
+# 构建产物与系统杂项（成品 exe 走 GitHub Releases 分发）
+*.exe
+.DS_Store
+Thumbs.db
+desktop.ini
